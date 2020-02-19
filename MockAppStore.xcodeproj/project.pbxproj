@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		FF06E7E8239DEF7F0001A755 /* Section.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Section.swift; sourceTree = "<group>"; };
 		FF06E7EA239DEF900001A755 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
+		FF338EAE23FC42C600948D0D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FF5E4FFE23A4898A000D487B /* MediumCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediumCell.swift; sourceTree = "<group>"; };
 		FF66300223A4FF17006DB548 /* SectionHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionHeaderView.swift; sourceTree = "<group>"; };
 		FFD29D7C23A5511A006134CD /* ItemTrailingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemTrailingView.swift; sourceTree = "<group>"; };
@@ -54,6 +55,7 @@
 		FFFEC4C0239A09FF00F832D6 = {
 			isa = PBXGroup;
 			children = (
+				FF338EAE23FC42C600948D0D /* README.md */,
 				FFFEC4CB239A09FF00F832D6 /* MockAppStore */,
 				FFFEC4CA239A09FF00F832D6 /* Products */,
 			);
