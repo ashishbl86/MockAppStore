@@ -28,6 +28,9 @@
 		FF338EAE23FC42C600948D0D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FF5E4FFE23A4898A000D487B /* MediumCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediumCell.swift; sourceTree = "<group>"; };
 		FF66300223A4FF17006DB548 /* SectionHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionHeaderView.swift; sourceTree = "<group>"; };
+		FF6B01F3240CA31600704C7C /* Medium_smallCells.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Medium_smallCells.png; sourceTree = "<group>"; };
+		FF6B01F4240CA31600704C7C /* LargeCells.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LargeCells.png; sourceTree = "<group>"; };
+		FF6B01F5240CA31600704C7C /* HorizontalScrolling.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = HorizontalScrolling.gif; sourceTree = "<group>"; };
 		FFD29D7C23A5511A006134CD /* ItemTrailingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemTrailingView.swift; sourceTree = "<group>"; };
 		FFFDAACD239FCB63000A97C6 /* FeaturedCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedCell.swift; sourceTree = "<group>"; };
 		FFFEC4C9239A09FF00F832D6 /* MockAppStore.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MockAppStore.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -52,10 +55,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FF6B01F2240CA31600704C7C /* ScreenCaptures */ = {
+			isa = PBXGroup;
+			children = (
+				FF6B01F3240CA31600704C7C /* Medium_smallCells.png */,
+				FF6B01F4240CA31600704C7C /* LargeCells.png */,
+				FF6B01F5240CA31600704C7C /* HorizontalScrolling.gif */,
+			);
+			path = ScreenCaptures;
+			sourceTree = "<group>";
+		};
 		FFFEC4C0239A09FF00F832D6 = {
 			isa = PBXGroup;
 			children = (
 				FF338EAE23FC42C600948D0D /* README.md */,
+				FF6B01F2240CA31600704C7C /* ScreenCaptures */,
 				FFFEC4CB239A09FF00F832D6 /* MockAppStore */,
 				FFFEC4CA239A09FF00F832D6 /* Products */,
 			);

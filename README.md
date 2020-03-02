@@ -1,5 +1,5 @@
 # MockAppStore
-This is my attempt to create a mock-up of the iOS' **App Store** using the latest ```UICollectionViewCompositionalLayout``` and ```UITableViewDiffableDataSource``` which were introduced as part of iOS 13.0 SDK.
+This is my attempt to create a mock-up of the iOS' **App Store** using the latest ```UICollectionViewCompositionalLayout``` and ```UICollectionViewDiffableDataSource``` which were introduced as part of iOS 13.0 SDK.
 
 I found a [YouTube video](https://www.youtube.com/watch?v=SR7DtcT61tA) by **Paul Hudson** of [HackingWithSwift](www.hackingwithswift.com) where he showed how to create the replica of App Store home page using these new iOS features.
 
@@ -10,3 +10,8 @@ Here I have only used the images from that project and re-created the rest by my
 Also part of this project is the use of ```Decodable``` protocol to parse json data into struct objects.
 
 ## Screenshots
+<p align="left">
+<img src="./ScreenCaptures/LargeCells.png" width="33%" />
+<img src="./ScreenCaptures/Medium_smallCells.png" width="33%" />
+<img src="./ScreenCaptures/HorizontalScrolling.gif" width="33%" />
+</p>
