@@ -10,8 +10,10 @@ Here I have only used the images from that project and re-created the rest by my
 Also part of this project is the use of ```Decodable``` protocol to parse json data into struct objects.
 
 ## Screenshots
-<p align="left">
-<img src="./ScreenCaptures/LargeCells.png" width="33%" />
-<img src="./ScreenCaptures/Medium_smallCells.png" width="33%" />
-<img src="./ScreenCaptures/HorizontalScrolling.gif" width="33%" />
-</p>
+
+Home screen|Separators added
+---|---
+![](./ScreenCaptures/LargeCells.png)|![](./ScreenCaptures/Medium_smallCells.png)
+
+#### Horizontal Scrolling
+![](./ScreenCaptures/HorizontalScrolling.gif)
