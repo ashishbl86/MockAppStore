@@ -5,7 +5,7 @@ I found a [YouTube video](https://www.youtube.com/watch?v=SR7DtcT61tA) by **Paul
 
 This is my attempt to do it on my own after going through the video.
 
-Here I have only used the images from that project and re-created the rest by myself. One improvement that I did, was to add separator lines for a section of the layout. Have highlighted that in the screenshots below. This wasn't particularly straightforward and required careful use of supplementary items.
+Here I have only used the images from that project and re-created the rest by myself. One improvement that I did, was to **add separator lines** for a section of the layout. Have highlighted that in one of the screenshots below. This wasn't particularly straightforward and required careful use of supplementary items.
 
 Also part of this project is the use of ```Decodable``` protocol to parse json data into struct objects.
 
